@@ -6,5 +6,5 @@
 2.You can install or upgrade tgbot<br>
 3.Open code in code editor for example ([Visual Studio Code](https://code.visualstudio.com/download))<br>
 4.Write in the search "telegram bot"<br>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/rf8vDh9/tgbot.png" alt="tgbot" border="0"></a>
+![image](https://i.ibb.co/rf8vDh9/tgbot.png)<br>
 5.Press "/start"
