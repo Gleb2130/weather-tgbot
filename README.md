@@ -3,7 +3,7 @@
 
 ## What can a bot do
 
-The bot asks you to enter the name of the city and then displays the weather<br>
+The bot gives a choice between "Weather" and "Exchange rate". You need to select one of the proposed functions and, in the case of choosing the weather, write the name of the city<br>
 
      EXAMPLE
 ***2022-10-21 18:50***<br>
@@ -16,6 +16,14 @@ Sunrise: 2022-10-21 07:29:35<br>
 Sunset: 2022-10-21 17:55:17<br>
 Length of day: 10:25:42<br>
 ***Have a nice day!***<br>
+
+💵 USD:<br>
+ NBU: 36.5686 Buy: 40,450<br>
+ Sell:40,600<br>
+
+💶 EUR:<br>
+ NBU: 35.8866 Buy: 38,800<br>
+ Sell:39,100<br>
 
 ## Instruction:
 
