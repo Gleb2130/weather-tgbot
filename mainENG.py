@@ -7,8 +7,8 @@ from bs4 import BeautifulSoup
 import logging
 
 
-open_weather_token = "e9f7feac6dacb19e544cfffb7518417e"
-tg_bot_token = "5760011236:AAHCzKYmgS6XP6oAuUSGMj1Gai1-G0wtGes"
+open_weather_token = "your opernWeather token"
+tg_bot_token = "your bot token"
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=tg_bot_token)
